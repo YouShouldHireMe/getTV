@@ -12,4 +12,5 @@ You will need:
     </ul>
 <li> bittorent/btc (https://github.com/bittorrent/btc) </li>
 <li> uTorrent </li>
+<li> configure your btc to link with uTorrent. Find your uTorrent port number in preferences > remote > webUI. Set it in your btc configuration </li>
 </ol>
