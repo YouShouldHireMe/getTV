@@ -14,3 +14,8 @@ You will need:
 <li> uTorrent </li>
 <li> configure your btc to link with uTorrent. Find your uTorrent port number in preferences > remote > webUI. Set it in your btc configuration </li>
 </ol>
+
+To do list:
+1. Verify torrent correctness before starting to download
+2. add command line argument to download only for one specific show.
+3. currently it doesn't support downloading more than 2 whole seasons in one run. 
